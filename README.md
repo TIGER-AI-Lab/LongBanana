@@ -3,8 +3,8 @@
 ## An Expert-Verified Benchmark for Long-Context Multi-Reference Image Synthesis
 
 <p align="center">
-  <a href="https://klingairesearch.github.io/LongBanana/"><img src="assets/badge-project-page.svg" alt="Project Page" height="42"></a>
-  <a href="https://klingairesearch.github.io/LongBanana/gallery/"><img src="assets/badge-gallery.svg" alt="Gallery" height="42"></a>
+  <a href="https://long-banana.com/"><img src="assets/badge-project-page.svg" alt="Project Page" height="42"></a>
+  <a href="https://long-banana.com/gallery/"><img src="assets/badge-gallery.svg" alt="Gallery" height="42"></a>
   <a href="#paper-and-citation"><img src="assets/badge-arxiv.svg" alt="arXiv Paper — Coming soon" height="42"></a>
   <a href="https://huggingface.co/datasets/Kwai-Kolors/LongBanana"><img src="assets/badge-dataset.svg" alt="Hugging Face Dataset" height="42"></a>
 </p>
@@ -121,7 +121,7 @@ setup and pinned versions. No private repository is required.
 The `main` branch contains the sandboxed implementation.
 
 ```bash
-git clone https://github.com/KlingAIResearch/LongBanana.git
+git clone https://github.com/TIGER-AI-Lab/LongBanana.git
 cd LongBanana
 python -m pip install -e .
 npm ci --prefix mcp/image_gen
@@ -199,6 +199,23 @@ tests/                   Offline tests
 Run offline tests with `python -m unittest discover -s tests -v`.
 [Release packaging](docs/releasing.md) documents the source/data separation.
 
+## Core Contributors
+
+<table>
+<tr>
+<td align="center" width="180"><b>Haoxiang Cao</b></td>
+<td align="center" width="180"><a href="https://github.com/reacher-z"><b>Yuxuan Zhang</b></a></td>
+</tr>
+</table>
+
+## Advisor
+
+<table>
+<tr>
+<td align="center" width="180"><a href="https://github.com/k-r-allen"><b>Kelsey R. Allen</b></a></td>
+</tr>
+</table>
+
 ## Acknowledgments and License
 
 LongBanana builds on the OpenClaw, Codex, Claude Code, Bubblewrap, and Model Context
@@ -214,7 +231,7 @@ full license and attribution information.
 
 ## Paper and Citation
 
-**arXiv Paper: Coming soon.** Visit the [Project Page](https://klingairesearch.github.io/LongBanana/)
+**arXiv Paper: Coming soon.** Visit the [Project Page](https://long-banana.com/)
 for the research overview. Please cite LongBanana when using the benchmark:
 
 ```bibtex
