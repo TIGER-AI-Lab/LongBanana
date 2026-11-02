@@ -220,8 +220,26 @@ for the research overview. Please cite LongBanana when using the benchmark:
 ```bibtex
 @misc{cao2026longbanana,
   title={LongBanana: An Expert-Verified Benchmark for Long-Context Multi-Reference Image Synthesis},
-  author={Cao, Haoxiang and Zhang, Yuxuan and Du, Penghui and others},
+  author={Cao, Haoxiang and
+          Zhang, Yuxuan and
+          Du, Penghui and
+          Li, Bo and
+          Cao, Jiajiong and
+          Fan, Yingying and
+          Wu, Zimeng and
+          Luo, Yifu and
+          Zheng, Mingzhe and
+          Miao, Junwen and
+          Zhang, Huaisong and
+          Yao, Yang and
+          Wang, Yu and
+          Jiang, Dongfu and
+          Nie, Ping and
+          Chen, Wenhu and
+          Wang, Chaoqun and
+          Yu, Changqian and
+          Allen, Kelsey R.},
   year={2026},
-  url={https://github.com/KlingAIResearch/LongBanana}
+  url={https://github.com/TIGER-AI-Lab/LongBanana}
 }
 ```
