@@ -9,6 +9,7 @@
 - LongBanana: project-provided banana-dog and gallery artwork. The Project Page
   and Gallery badges embed small PNG derivatives at approximately 3x their
   display resolution, preserving the originals' aspect ratios.
+- NeurIPS 2026: text-only badge (`badge-neurips.svg`); it embeds no conference logo.
 
 Retrieved September 14, 2026. Official artwork is embedded without recoloring
 and displayed with its original aspect ratio. Button backgrounds follow the

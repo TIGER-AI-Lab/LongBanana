@@ -3,11 +3,14 @@
 ## An Expert-Verified Benchmark for Long-Context Multi-Reference Image Synthesis
 
 <p align="center">
+  <a href="#paper-and-citation"><img src="assets/badge-neurips.svg" alt="NeurIPS 2026 — Accepted paper" height="42"></a>
   <a href="https://long-banana.com/"><img src="assets/badge-project-page.svg" alt="Project Page" height="42"></a>
   <a href="https://long-banana.com/gallery/"><img src="assets/badge-gallery.svg" alt="Gallery" height="42"></a>
   <a href="#paper-and-citation"><img src="assets/badge-arxiv.svg" alt="arXiv Paper — Coming soon" height="42"></a>
   <a href="https://huggingface.co/datasets/Kwai-Kolors/LongBanana"><img src="assets/badge-dataset.svg" alt="Hugging Face Dataset" height="42"></a>
 </p>
+
+<p align="center"><b>LongBanana has been accepted to NeurIPS 2026.</b></p>
 
 **90 tasks per release · 9 categories · 32 reference images per task · graph-grounded evaluation**
 
@@ -235,7 +238,7 @@ full license and attribution information.
 for the research overview. Please cite LongBanana when using the benchmark:
 
 ```bibtex
-@misc{cao2026longbanana,
+@inproceedings{cao2026longbanana,
   title={LongBanana: An Expert-Verified Benchmark for Long-Context Multi-Reference Image Synthesis},
   author={Cao, Haoxiang and
           Zhang, Yuxuan and
@@ -256,6 +259,7 @@ for the research overview. Please cite LongBanana when using the benchmark:
           Wang, Chaoqun and
           Yu, Changqian and
           Allen, Kelsey R.},
+  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
   year={2026},
   url={https://github.com/TIGER-AI-Lab/LongBanana}
 }
