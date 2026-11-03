@@ -4,6 +4,9 @@
 
 <p align="center">
   <a href="#paper-and-citation"><img src="assets/badge-neurips.svg" alt="NeurIPS 2026 — Accepted paper" height="42"></a>
+</p>
+
+<p align="center">
   <a href="https://long-banana.com/"><img src="assets/badge-project-page.svg" alt="Project Page" height="42"></a>
   <a href="https://long-banana.com/gallery/"><img src="assets/badge-gallery.svg" alt="Gallery" height="42"></a>
   <a href="#paper-and-citation"><img src="assets/badge-arxiv.svg" alt="arXiv Paper — Coming soon" height="42"></a>
